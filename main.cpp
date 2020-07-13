@@ -66,6 +66,6 @@ void  write_0x12345678() {
 int main() {
 //	write_4660();
 //	write_0x1234();
-//	write_0x12345678();
+	write_0x12345678();
 	
 }
